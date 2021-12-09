@@ -1,0 +1,34 @@
+.HeadNavBar {
+    font-size: initial;
+    color: white;
+    width: auto;
+    width: 100%;
+    margin-top: -390px;
+    align-items: center;
+    user-select: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 515px;
+    padding-right: 515px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    justify-content: space-around;
+}
+
+li {
+    list-style: none;
+}
+
+li a:hover {
+    text-decoration: none;
+    color: white
+}

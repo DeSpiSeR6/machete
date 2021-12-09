@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.AdvantagesMap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: #020d17;
+    width: auto;
+    height: 550px;
+    display: grid;
+
+   
+}
+
+
+.label1 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.Adv {
+    padding-left: 220px;
+    padding-right: 220px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 600px;
+}
+.Colermeme {
+    
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+    background-color: #020d17;
+    color: blue;
+    font-size: 2px;
+}

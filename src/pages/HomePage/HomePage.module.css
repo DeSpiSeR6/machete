@@ -26,47 +26,7 @@
     background-position: center;
 }
 
-.section3 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: #020d17;
-    max-width: auto;
-    height: 900px;
-    padding-left: 300px;
-    padding-right: 550px;
-}
-.titleSec3{
-    padding-top: 4%;
-    width: 1550px;
-    
-    text-align: center;
-}
-.section3Title {
-    width: 1550px;
-    
-    text-align: center;
-    font-size: 80px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
-}
-.section3text {
-    padding-top: 7%;
-    height: 300px;
-    width: auto;
-    color: white;
-    display: flex;
-    justify-content: space-around;
-    width: 1400px;
-}
-.sec3Title {
-    font-size: 30px;
-}
-.section3text1 {
-    padding-top: 7%;
-    width: auto;
-    color: white;
-    display: flex;
-    justify-content: space-around;
-    width: 1400px;
-}
+
 
 .section4 {
     padding-left: 450px;
@@ -169,38 +129,7 @@ hr {
     margin-top: 100px;
 }
 
-.HeadNavBar {
-    font-size: initial;
-    color: white;
-    width: auto;
-    padding-left: 250px;
-    margin-top: -390px;
-    align-items: center;
-    user-select: none;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
 
-a {
-    text-decoration: none;
-    color: white;
-    font-size: 25px;
-}
-
-ul {
-    display: flex;
-    flex-direction: row;
-    width: 900px;
-    justify-content: space-around;
-}
-
-li {
-    list-style: none;
-}
-
-li a:hover {
-    text-decoration: none;
-    color: white
-}
 
 img {
     padding-right: -20px;
@@ -219,49 +148,9 @@ ins {
     padding-top: 50px;
 }
 
-.description {
-    text-align: center;
-    font-size: initial;
-    /*   transform: scaleY(1.3) scaleX(1.5); */
-    font-weight: normal;
-    display: flex;
-    flex-direction: column-reverse;
-    margin-top: -170px;
-}
 
-.title2 {
-    text-align: center;
-    /*     background-color: violet; */
-    user-select: none;
-    font-size: 120px;
-    line-height: 85%;
-}
 
-.title3 {
-    text-transform: uppercase;
-    align-items: center;
-    font-size: 28px;
-    /*  background-color: tomato; */
-    color: white;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
 
-.mainDescription {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 704px;
-    height: 1200px;
-    background-color: #4a8c76af;
-}
-
-.sec3Head {
-    user-select: none;
-    font-size: 70px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    padding-top: 50px;
-    padding-left: 500px;
-}
 
 .img3 {
     align-items: center;

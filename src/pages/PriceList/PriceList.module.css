@@ -1,0 +1,41 @@
+.section4 {
+    padding-left: 450px;
+    padding-right: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../../media/photo-1590540178859-647e3b7a70bd.png);
+    max-width: auto;
+    height: 1000px;
+    background-size: cover;
+    background-position: center;
+}
+.priceList {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 704px;
+    height: 1000px;
+    background-color: #4a8c76af;
+}
+.OurPriceList {
+    margin-top: -125%;
+    }
+    .OurPriceList1 {
+        text-align: center;
+        width: 700px;
+        text-transform: uppercase;
+        align-items: center;
+        font-size: 58px;
+        /*  background-color: tomato; */
+        color: white;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .table {
+        color: white;
+        margin-left: -98%;
+        color: white;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 32px;
+     
+    }
