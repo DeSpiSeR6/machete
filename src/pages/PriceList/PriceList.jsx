@@ -4,7 +4,7 @@ const PriceList = () => {
     return (
         <div className={styles.section4} id="prise">
             <div className={styles.priceList}>
-                <div className={styles.OurPriceList}><h1 className={styles.OurPriceList1}>НАШ ПРАЙС-ЛИСТ</h1></div>
+                <div className={styles.OurPriceList}><h1 className={styles.OurPriceList1}>ПРАЙС-ЛИСТ</h1></div>
                 <div className={styles.table}>
                     <table style={{ width: "667.453px" }}>
                         <tbody>
@@ -58,7 +58,7 @@ const PriceList = () => {
                             </tr>
                             <tr style={{ height: "23px" }}>
                                 <td style={{ width: "589px", height: "23px" }}>&nbsp;Чистка лица</td>
-                                <td style={{ width: "70.4531px", height: "23px" }}>&nbsp; 2500 тг.</td>
+                                <td style={{ width: "70.4531px", height: "23px" }}>&nbsp;2500 тг.</td>
                             </tr>
                             <tr style={{ height: "23px" }}>
                                 <td style={{ width: "589px", height: "23px" }}>&nbsp;8 - ая стрижка</td>

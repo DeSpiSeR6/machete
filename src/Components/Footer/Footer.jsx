@@ -10,6 +10,7 @@ const Footer = () => {
                 <li><a href="#about">О нас</a></li>
                 <li><a href="#prise">Услуги и цены</a></li>
                 <li><a href="#contacts">Контакты</a></li>
+                <li><a href="tel:+7 (775) 697-07-07">+7 (775) 697-07-07</a></li>
             </div>
         </div>
     )

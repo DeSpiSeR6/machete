@@ -6,7 +6,7 @@ const AdvantagesMap = ({ label, icon }) => {
         <div className={styles.AdvantagesMap}>
             <div className={styles.Adv}>
                 <h1 className={styles.label1}>{label}</h1>
-                <img src={icon} alt="МЕА" />
+                <img src={icon} alt="МЕА" className={styles.imgIcon} />
 
             </div>
         </div>
